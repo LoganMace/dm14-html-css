@@ -1,0 +1,16 @@
+nav{
+
+}
+.nav-container{
+  display: flex;
+  justify-content: space-evenly;
+  height: 15vh;
+  width: 45vw;
+  align-items: center;
+  margin: 0 auto;
+}
+.nav-links{
+  color: white;
+  font-size: .7em;
+  font-weight: bolder;
+}

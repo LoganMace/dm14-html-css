@@ -1,0 +1,27 @@
+body {
+  background: linear-gradient(
+    45deg,
+    #0018AB 30%,
+    #0828CC 50%
+  );
+  height: 100vh;
+  overflow: hidden;
+}
+.text-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  color: white;
+  height: 75vh;
+}
+.btn-space{
+  padding-top: 3vh;
+}
+.main-tag{
+  font-size: 6vh;
+}
+p{
+  width: 85vw;
+  line-height: 2em;
+}
